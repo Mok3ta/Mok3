@@ -1,2 +1,0 @@
-# Mok3
-Ticketbot

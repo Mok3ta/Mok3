@@ -1,0 +1,35 @@
+{
+    "parole_bannate": ["PAROLA1", "PAROLA2", "PAROLA3"],
+    "bot": {
+        "token": "TOKEN_BOT",
+        "clientid": "ID_BOT",
+        "nomebot": "NOME_BOT"
+    },
+
+    "server": {
+        "idguild": "ID_SERVER",
+        "nomeserver": "NOME_SERVER"
+    },
+
+    "ruoli": {
+        "benvenuto": "ID_RUOLO_BENVENUTO", 
+		"staff": "ID_RUOLO_STAFF",
+        "staffgen": "ID_RUOLO_STAFF_PER_COMANDO_/SETUP"
+    },
+
+    "stanze": {
+        "giochi": "ID_CANALE_REAZIONI_RUOLI",
+        "benvenuto": "ID_CANALE_MESSAGGO_DI_BENVENUTO",
+        "ticket": {
+            "scelta": "ID_CATEGORIA_SCELTA_TICKET",
+            "generale": "ID_CATEGORIA_GENERALE_TICKET",
+            "fazioni": "ID_CATEGORIA_FAZIONI_TICKET",
+            "donazioni": "ID_CATEGORIA_DONAZIONI_TICKET",
+            "rimborsi": "ID_CATEGORIA_RI,BORSI_TICKET",
+            "ban": "ID_CATEGORIA_APPELLO_BAN_TICKET"
+        },
+        "log": {
+            "transcript": "ID_CANALE_TRANSCRIPT_TICKET"
+        }
+    }
+}
